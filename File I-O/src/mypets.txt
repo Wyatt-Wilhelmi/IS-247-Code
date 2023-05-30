@@ -1,0 +1,1 @@
+Fido poodle 3 17432 true Buster pug 6 43254 true Sally siamese no 39587 false Gina bulldog 5 3857 true Zelda shepherd 4 45827 true Thor shepherd true 48675 false Gidget pug 3 88954 true
